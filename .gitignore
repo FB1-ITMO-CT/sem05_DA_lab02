@@ -1,3 +1,6 @@
 # Everything except itself
 *
 !.gitignore
+
+# Task statement
+!/*.md
