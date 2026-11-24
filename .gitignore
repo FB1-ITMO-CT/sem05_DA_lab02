@@ -4,3 +4,7 @@
 
 # Task statement
 !/*.md
+
+# Source
+!/notebooks/
+!/notebooks/*.ipynb
